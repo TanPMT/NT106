@@ -1,0 +1,6 @@
+C:\Users\thai2\source\repos\TCP-app\TCP-app\obj\Debug\TCP-app.csproj.AssemblyReference.cache
+C:\Users\thai2\source\repos\TCP-app\TCP-app\obj\Debug\TCP_app.client.resources
+C:\Users\thai2\source\repos\TCP-app\TCP-app\obj\Debug\TCP_app.Properties.Resources.resources
+C:\Users\thai2\source\repos\TCP-app\TCP-app\obj\Debug\TCP_app.server.resources
+C:\Users\thai2\source\repos\TCP-app\TCP-app\obj\Debug\TCP-app.csproj.GenerateResource.cache
+C:\Users\thai2\source\repos\TCP-app\TCP-app\obj\Debug\TCP-app.csproj.CoreCompileInputs.cache

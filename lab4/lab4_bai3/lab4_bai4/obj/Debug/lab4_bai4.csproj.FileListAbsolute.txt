@@ -1,0 +1,15 @@
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.csproj.AssemblyReference.cache
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.Form1.resources
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.Properties.Resources.resources
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.csproj.GenerateResource.cache
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.csproj.CoreCompileInputs.cache
+D:\WinformProjects\lab4_bai4\lab4_bai4\bin\Debug\lab4_bai4.exe.config
+D:\WinformProjects\lab4_bai4\lab4_bai4\bin\Debug\lab4_bai4.exe
+D:\WinformProjects\lab4_bai4\lab4_bai4\bin\Debug\lab4_bai4.pdb
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.exe
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.pdb
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.csproj.Up2Date
+D:\WinformProjects\lab4_bai4\lab4_bai4\bin\Debug\HtmlAgilityPack.dll
+D:\WinformProjects\lab4_bai4\lab4_bai4\bin\Debug\HtmlAgilityPack.pdb
+D:\WinformProjects\lab4_bai4\lab4_bai4\bin\Debug\HtmlAgilityPack.xml
+D:\WinformProjects\lab4_bai4\lab4_bai4\obj\Debug\lab4_bai4.Source.resources

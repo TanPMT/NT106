@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|c:\\users\\lenovo\\desktop\\code\\course\\ltmcb\\lab1\\lab1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|solutionrelative:lab1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|solutionrelative:lab1\\bai3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|solutionrelative:lab1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|solutionrelative:lab1\\bai5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|solutionrelative:lab1\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|solutionrelative:lab1\\bai5.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DA7D34A-BAE6-4DD6-9EF6-18CB2ED3568B}|lab1\\lab1.csproj|solutionrelative:lab1\\bai4.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai3.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai3.cs",
+              "RelativeDocumentMoniker": "lab1\\bai3.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai3.cs",
+              "RelativeToolTip": "lab1\\bai3.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAewCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:40:53.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bai3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai3.cs",
+              "RelativeDocumentMoniker": "lab1\\bai3.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai3.cs [Design]",
+              "RelativeToolTip": "lab1\\bai3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T00:40:42.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "menu.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\menu.cs",
+              "RelativeDocumentMoniker": "lab1\\menu.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\menu.cs",
+              "RelativeToolTip": "lab1\\menu.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAIA0wCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:37:48.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bai4.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai4.Designer.cs",
+              "RelativeDocumentMoniker": "lab1\\bai4.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai4.Designer.cs",
+              "RelativeToolTip": "lab1\\bai4.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:37:21.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "bai5.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.Designer.cs",
+              "RelativeDocumentMoniker": "lab1\\bai5.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.Designer.cs",
+              "RelativeToolTip": "lab1\\bai5.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:36:08.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bai5.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.cs",
+              "RelativeDocumentMoniker": "lab1\\bai5.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.cs",
+              "RelativeToolTip": "lab1\\bai5.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAKUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:29:10.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bai5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.cs",
+              "RelativeDocumentMoniker": "lab1\\bai5.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab1\\lab1\\bai5.cs [Design]",
+              "RelativeToolTip": "lab1\\bai5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T01:29:18.948Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57A4770-8754-4BFE-A44C-90D8848B5BF6}|MultiChat\\Client.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\multichat\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57A4770-8754-4BFE-A44C-90D8848B5BF6}|MultiChat\\Client.csproj|solutionrelative:multichat\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57A4770-8754-4BFE-A44C-90D8848B5BF6}|MultiChat\\Client.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\multichat\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E57A4770-8754-4BFE-A44C-90D8848B5BF6}|MultiChat\\Client.csproj|solutionrelative:multichat\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA5C9A5-47B6-4855-8660-5EF7528F6D31}|Server\\Server.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA5C9A5-47B6-4855-8660-5EF7528F6D31}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA5C9A5-47B6-4855-8660-5EF7528F6D31}|Server\\Server.csproj|c:\\users\\lenovo\\desktop\\code\\course\\ltmcb\\lab3\\bai4\\server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0BA5C9A5-47B6-4855-8660-5EF7528F6D31}|Server\\Server.csproj|solutionrelative:server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57A4770-8754-4BFE-A44C-90D8848B5BF6}|MultiChat\\Client.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\multichat\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57A4770-8754-4BFE-A44C-90D8848B5BF6}|MultiChat\\Client.csproj|solutionrelative:multichat\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BA5C9A5-47B6-4855-8660-5EF7528F6D31}|Server\\Server.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\server\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BA5C9A5-47B6-4855-8660-5EF7528F6D31}|Server\\Server.csproj|solutionrelative:server\\server.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E57A4770-8754-4BFE-A44C-90D8848B5BF6}|MultiChat\\Client.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\multichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E57A4770-8754-4BFE-A44C-90D8848B5BF6}|MultiChat\\Client.csproj|solutionrelative:multichat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\MultiChat\\Client.cs",
+              "RelativeDocumentMoniker": "MultiChat\\Client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\MultiChat\\Client.cs",
+              "RelativeToolTip": "MultiChat\\Client.cs",
+              "ViewState": "AQIAAJoAAAAAAAAAAAAAALMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:28:35.144Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Server.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\Server\\Server.cs [Design]",
+              "RelativeToolTip": "Server\\Server.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:40:53.164Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Server.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\Server\\Server.Designer.cs",
+              "RelativeDocumentMoniker": "Server\\Server.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\Server\\Server.Designer.cs",
+              "RelativeToolTip": "Server\\Server.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:38:13.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\MultiChat\\Client.Designer.cs",
+              "RelativeDocumentMoniker": "MultiChat\\Client.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\MultiChat\\Client.Designer.cs",
+              "RelativeToolTip": "MultiChat\\Client.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwHIAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T14:24:02.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\MultiChat\\Client.cs",
+              "RelativeDocumentMoniker": "MultiChat\\Client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\MultiChat\\Client.cs [Design]",
+              "RelativeToolTip": "MultiChat\\Client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:19:43.504Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\Server\\Server.cs",
+              "RelativeDocumentMoniker": "Server\\Server.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\Server\\Server.cs",
+              "RelativeToolTip": "Server\\Server.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAAwGoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T14:41:09.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\MultiChat\\Program.cs",
+              "RelativeDocumentMoniker": "MultiChat\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai4\\MultiChat\\Program.cs",
+              "RelativeToolTip": "MultiChat\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T13:26:16.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

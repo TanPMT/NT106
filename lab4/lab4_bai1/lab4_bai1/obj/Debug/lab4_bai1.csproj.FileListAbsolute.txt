@@ -1,0 +1,90 @@
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.exe.config
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.exe
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.pdb
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\Aspose.HTML.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Buffers.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Drawing.Common.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Memory.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Numerics.Vectors.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Security.AccessControl.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Security.Permissions.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Security.Principal.Windows.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\Aspose.HTML.xml
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Buffers.xml
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Memory.xml
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Numerics.Vectors.xml
+D:\WinformProjects\lab4_bai1\lab4_bai1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WinformProjects\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.AssemblyReference.cache
+D:\WinformProjects\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.Form1.resources
+D:\WinformProjects\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.Properties.Resources.resources
+D:\WinformProjects\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.GenerateResource.cache
+D:\WinformProjects\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.CoreCompileInputs.cache
+D:\WinformProjects\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.Up2Date
+D:\WinformProjects\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.exe
+D:\WinformProjects\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.pdb
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.exe.config
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.exe
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.pdb
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\Aspose.HTML.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Buffers.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Drawing.Common.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Memory.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Security.Permissions.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\Aspose.HTML.xml
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Buffers.xml
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Memory.xml
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.AssemblyReference.cache
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.Form1.resources
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.Properties.Resources.resources
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.GenerateResource.cache
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.CoreCompileInputs.cache
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.Up2Date
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.exe
+C:\Users\thai2\OneDrive\Máy tính\lab4_bai1-4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.exe.config
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.exe
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\lab4_bai1.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\Aspose.HTML.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Drawing.Common.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Security.Permissions.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\Aspose.HTML.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.Form1.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.csproj.Up2Date
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.exe
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab4\lab4_bai1\lab4_bai1\obj\Debug\lab4_bai1.pdb

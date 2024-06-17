@@ -1,0 +1,155 @@
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.exe.config
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.exe
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.pdb
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.AssemblyReference.cache
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.Form_Dang_Nhap.resources
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.GuiTin.resources
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.Properties.Resources.resources
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.TragChu.resources
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.GenerateResource.cache
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.CoreCompileInputs.cache
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.exe
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.pdb
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MailKit.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Buffers.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Formats.Asn1.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Memory.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.ValueTuple.dll
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MailKit.pdb
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MailKit.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MailKit.dll.config
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.pdb
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.dll.config
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Buffers.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Formats.Asn1.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Memory.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.ValueTuple.xml
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.Up2Date
+C:\Users\thai2\OneDrive\Máy tính\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.DuyetMail.resources
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.exe.config
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.exe
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.pdb
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MailKit.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Buffers.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Formats.Asn1.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Memory.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.ValueTuple.dll
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MailKit.pdb
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MailKit.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MailKit.dll.config
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.pdb
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.dll.config
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Buffers.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Formats.Asn1.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Memory.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\bin\Debug\System.ValueTuple.xml
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.AssemblyReference.cache
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.DuyetMail.resources
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.Form_Dang_Nhap.resources
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.GuiTin.resources
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.Properties.Resources.resources
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.TragChu.resources
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.GenerateResource.cache
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.CoreCompileInputs.cache
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.Up2Date
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.exe
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.pdb
+C:\Users\thai2\OneDrive\Máy tính\LapTrinhMangCanBan\LAB5_NNM\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.DangNhap_gmail.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.exe.config
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.exe
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\lab5_bai4.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\MailKit.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\MailKit.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\MailKit.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\MailKit.dll.config
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\MimeKit.dll.config
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.DangNhap_gmail.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.DuyetMail.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.Form_Dang_Nhap.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.GuiTin.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.TragChu.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.csproj.Up2Date
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.exe
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5_bai4\lab5_bai4\obj\Debug\lab5_bai4.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\lab5_bai4.exe.config
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\lab5_bai4.exe
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\lab5_bai4.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\MailKit.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\MimeKit.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Buffers.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Formats.Asn1.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Memory.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.ValueTuple.dll
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\MailKit.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\MailKit.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\MailKit.dll.config
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\MimeKit.pdb
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\MimeKit.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\MimeKit.dll.config
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Buffers.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Formats.Asn1.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Memory.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\bin\Debug\System.ValueTuple.xml
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.DangNhap_gmail.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.DuyetMail.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.Form_Dang_Nhap.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.GuiTin.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.TragChu.resources
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.csproj.Up2Date
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.exe
+C:\Users\Lenovo\Desktop\CODE\Course\LTMCB\lab5\lab5_bai4\obj\Debug\lab5_bai4.pdb

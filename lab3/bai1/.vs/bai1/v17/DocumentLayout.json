@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\udp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|solutionrelative:udp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\udp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|solutionrelative:udp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|client||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\udp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|solutionrelative:udp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE481B63-8CFD-420E-939E-A085B6847CCD}|server\\server.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\serverudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE481B63-8CFD-420E-939E-A085B6847CCD}|server\\server.csproj|solutionrelative:server\\serverudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE481B63-8CFD-420E-939E-A085B6847CCD}|server\\server.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\serverudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE481B63-8CFD-420E-939E-A085B6847CCD}|server\\server.csproj|solutionrelative:server\\serverudp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE481B63-8CFD-420E-939E-A085B6847CCD}|server\\server.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE481B63-8CFD-420E-939E-A085B6847CCD}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\udp\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|solutionrelative:udp\\client.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5DA70DE-8753-418E-8C6F-27CC2207EA8E}|UDP\\client.csproj|c:\\users\\lenovo\\desktop\\code\\course\\ltmcb\\lab3\\bai1\\udp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|6185191f-1008-4fb2-a715-3a4e4f27e610"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "client",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\client.csproj",
+              "RelativeDocumentMoniker": "UDP\\client.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\client.csproj",
+              "RelativeToolTip": "UDP\\client.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-06T14:01:05.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "client.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\client.cs",
+              "RelativeDocumentMoniker": "UDP\\client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\client.cs",
+              "RelativeToolTip": "UDP\\client.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAA3wCkAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T02:00:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "serverUDP.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\serverUDP.cs",
+              "RelativeDocumentMoniker": "server\\serverUDP.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\serverUDP.cs*",
+              "RelativeToolTip": "server\\serverUDP.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:24:13.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "serverUDP.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\serverUDP.cs",
+              "RelativeDocumentMoniker": "server\\serverUDP.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\serverUDP.cs [Design]*",
+              "RelativeToolTip": "server\\serverUDP.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:23:43.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "client.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\client.cs",
+              "RelativeDocumentMoniker": "UDP\\client.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\client.cs [Design]",
+              "RelativeToolTip": "UDP\\client.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:03:04.371Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T06:46:04.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\Program.cs",
+              "RelativeDocumentMoniker": "UDP\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\Program.cs",
+              "RelativeToolTip": "UDP\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T04:05:23.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "client.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\client.Designer.cs",
+              "RelativeDocumentMoniker": "UDP\\client.Designer.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\CODE\\Course\\LTMCB\\lab3\\bai1\\UDP\\client.Designer.cs",
+              "RelativeToolTip": "UDP\\client.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T03:16:37.676Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
